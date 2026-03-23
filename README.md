@@ -1,6 +1,6 @@
 # Extrapolation
 
-<img width="1920" height="1080" alt="Screenshot (528)" src="https://github.com/user-attachments/assets/d4121aba-c60e-4ee2-ac7b-0e3afb5d31a5" />
+<img width="1167" height="500" alt="Screenshot (579)" src="https://github.com/user-attachments/assets/93454aaf-f6a6-49a7-9970-b0c08d8ad683" />
 
 
 Inspired by "Why Can’t Neural Networks Master Extrapolation ?
